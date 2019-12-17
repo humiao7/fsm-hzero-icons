@@ -1,7 +1,7 @@
 # fsm-hzero-icons
 ## 使用步骤如下
 #### 安装：
-<pre><code>bower fsm-hzero-icons</code></pre> 
+<pre><code>bower install fsm-hzero-icons</code></pre> 
 
 ##### 第一步：在项目中引入下面的CSS代码
  <pre><code>&#60;link href="build/lib/fsm-hzero-icons/css/fsm-hzero-icons.css" rel="stylesheet"&#62;</code></pre>
